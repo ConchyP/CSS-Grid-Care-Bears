@@ -10,4 +10,5 @@ https://www.figma.com/design/YKCHtJHfeCBGto7YsxWPOE/CSS-Grid---Care-Bears?node-i
 
 ## Github-Pages:
 
-![alt text](vistaReadme.png)
+
+![Captura de pantalla 2024-06-14 171023](https://github.com/ConchyP/CSS-Grid-Care-Bears/assets/169025186/520f2ad2-23fc-4c0f-8c94-ae4ec5180ebd)
